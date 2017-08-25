@@ -1,0 +1,2 @@
+nombre = "seba"
+puts nombre
