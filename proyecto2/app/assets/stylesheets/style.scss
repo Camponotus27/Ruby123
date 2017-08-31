@@ -1,0 +1,38 @@
+html,body{
+	margin: 0px;
+	font-family: 'Baloo Bhaijaan', cursive;
+}
+
+html,header{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+a,a:visited{
+	color: inherit !important;
+	text-decoration: none;
+}
+.color_fondo{
+	background-color: #01CC3A;
+}
+.white{
+	color: #FDFF3E;
+}
+.large_padding{
+	padding: 10px 0px;
+}
+
+.no-margin{
+	margin: 0px;
+}
+.top_padding_list{
+	padding-top: 10px;
+}
+
+#logo{
+	font-size: 30px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
